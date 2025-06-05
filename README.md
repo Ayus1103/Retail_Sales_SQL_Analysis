@@ -1,7 +1,16 @@
 # Retail Store Sales Analysis 📊  
 
 ## Overview  
-This project focuses on analyzing retail store transactions to derive **insights into customer behavior, sales patterns, and key business metrics**. The dataset consists of structured **sales transaction details**, including **customer demographics, product categories, and financial metrics**.  
+This project focuses on analyzing retail store transactions to derive **insights into customer behavior, sales patterns, and key business metrics**. The dataset consists of structured **sales transaction details**, including **customer demographics, product categories, and financial metrics**.
+
+**Project Objectives** 📌  
+
+✅ Ensure data accuracy and integrity by structuring a clean retail database.  
+✅ Analyze total sales, unique customers, and product categories.  
+✅ Identify customer purchasing patterns and top spenders.  
+✅ Track sales trends, seasonal performance, and peak shopping hours.  
+✅ Solve key business questions to optimize inventory and strategy decisions.  
+
 
 ## Database & Table Structure  
 ### **Database Creation**  
