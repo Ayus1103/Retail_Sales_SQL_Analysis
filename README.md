@@ -136,7 +136,3 @@ This analysis enables **data-driven decision-making for the retail business**, h
 ✔️ Top customers  
 ✔️ Gender & category-based sales trends  
 ✔️ Business opportunities for targeted marketing & inventory management  
-
----
-
-Since you're refining your README-writing skills, **let me know if you want modifications to style or content structure**. Your GitHub documentation will be a key portfolio piece for landing that **data analyst role** you're aiming for! 🚀
